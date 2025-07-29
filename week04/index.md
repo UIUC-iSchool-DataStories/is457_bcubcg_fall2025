@@ -1,10 +1,9 @@
 ---
 layout: week
-icon: undraw_blog-post_f68f.svg
+icon: undraw_all-the-data_5lil.svg
 visible: true
 ---
 
-# Week 4 - Tweet Critique Practice & Google Data Studio
+# Change Management, Intro to PowerBI & Excel
 
-See materials on Canvas for more info.
 

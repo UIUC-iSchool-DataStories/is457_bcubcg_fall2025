@@ -1,9 +1,10 @@
 ---
 layout: week
-icon: undraw_bear-market_dhi3.svg
+icon: undraw_blog-post_f68f.svg
 visible: true
 ---
 
-# Week 3 - Storytelling Concepts & Tweet Critiques Intro
+# Tweet Critique Practice & Google Data Studio
 
+See materials on Canvas for more info.
 

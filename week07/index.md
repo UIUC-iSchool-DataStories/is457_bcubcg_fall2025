@@ -1,9 +1,9 @@
 ---
 layout: week
-icon: undraw_engineering-team_13ax.svg
+icon: undraw_data_0ml2.svg
 visible: true
 ---
 
-# Week 7 - Empathy & Viz for Villainy
+# Twine & Framing Devices
 
-Discussion of how to incorporate empathy into presentations (for audience, subjects, and story).
+An introduction to Twine: twinery.org

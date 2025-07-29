@@ -1,9 +1,9 @@
 ---
 layout: week
-icon: undraw_business-plan_wv9q.svg
+icon: undraw_engineering-team_13ax.svg
 visible: true
 ---
 
-# Week 6 - Visualization Choices & Villainous Viz
+# Empathy & Viz for Villainy
 
-
+Discussion of how to incorporate empathy into presentations (for audience, subjects, and story).

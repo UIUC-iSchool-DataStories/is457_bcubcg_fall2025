@@ -1,7 +1,7 @@
 ---
 layout: week
-icon: undraw_data-processing_z2q6.svg
+icon: undraw_conference_3n82.svg
 visible: true
 ---
 
-# Week 12 - Community Data Stories with Prof. Moss
+# Final Considerations for Data Stories with Prof. McDowell

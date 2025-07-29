@@ -1,9 +1,9 @@
 ---
 layout: week
-icon: undraw_team-collaboration_phnf.svg
+icon: undraw_projections_fhch.svg
 visible: true
 ---
 
-# Week 15 - Final Data Stories Peer Feedback
+# Final Data Stories!
 
-Prepare for Final Data Stories with Peer Feedback.
+Last day of class, FDS presentations!

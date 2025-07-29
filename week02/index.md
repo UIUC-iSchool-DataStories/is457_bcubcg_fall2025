@@ -1,9 +1,9 @@
 ---
 layout: week
-icon: undraw_professor_d7zn.svg
+icon: undraw_bear-market_dhi3.svg
 visible: true
 ---
 
-# Week 2 - Introduction to Data Storytelling
+# Storytelling Concepts & Tweet Critiques Intro
 
 

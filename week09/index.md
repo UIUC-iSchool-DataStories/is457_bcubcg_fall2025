@@ -1,9 +1,8 @@
 ---
 layout: week
-icon: undraw_taken_mshk.svg
+icon: undraw_detailed-examination_63b9.svg
 visible: true
 ---
 
-# Week 9 - Spring Break, no class!
-
+# Peer Review, Organizing Story Structure
 

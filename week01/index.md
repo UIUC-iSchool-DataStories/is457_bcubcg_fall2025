@@ -1,9 +1,9 @@
 ---
 layout: week
-icon: undraw_taken_mshk.svg
+icon: undraw_professor_d7zn.svg
 visible: true
 ---
 
-# Week 1 - Holiday, no class!
+# Introduction to Data Storytelling
 
 

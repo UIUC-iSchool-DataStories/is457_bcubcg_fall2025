@@ -1,9 +1,9 @@
 ---
 layout: week
-icon: undraw_all-the-data_5lil.svg
+icon: undraw_business-plan_wv9q.svg
 visible: true
 ---
 
-# Week 5 - Change Management, Intro to PowerBI & Excel
+# Visualization Choices & Villainous Viz
 
 

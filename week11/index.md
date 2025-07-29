@@ -1,8 +1,7 @@
 ---
 layout: week
-icon: undraw_detailed-examination_63b9.svg
+icon: undraw_data-reports_uylc.svg
 visible: true
 ---
 
-# Week 11 - Peer Review, Organizing Story Structure
-
+# Community Data Story Presentations

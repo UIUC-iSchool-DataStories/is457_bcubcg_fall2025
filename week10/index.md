@@ -1,9 +1,7 @@
 ---
 layout: week
-icon: undraw_data-points_1q5h.svg
+icon: undraw_data-processing_z2q6.svg
 visible: true
 ---
 
-# Week 10 - Twine & Data Narratives
-
-An introduction to Twine: twinery.org
+# Community Data Stories with Prof. Moss

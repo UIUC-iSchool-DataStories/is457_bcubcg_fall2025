@@ -1,0 +1,401 @@
+---
+title: Lecture 8.2 -- Framing Devices & Intro to Twine
+layout: lecture
+tags:
+  - framing devices
+description: >-
+  How to frame your story and introduce it to your audience and an introduction to Twine for framing and storyboarding.
+date: 2025-03-10
+---
+
+# Today
+
+1. What is a framing device?
+1. Choices: 
+  * data informed vs. data driven
+  * interactive vs. static
+  * guided vs. unguided
+  * audience
+1. Twine as a framing device
+
+notes:
+So we'll talk a bit about framing devices and how apply them to data stories
+
+We'll discuss a few choices we need to make when selecting framing devices.  
+
+1. is our data story data-informed or data driven?
+1. do we want our story to be interactive or static? or hybrid -- a mix of these two?
+1. how does causality work? do we want our user to be guided through our story? or explore on their own?
+1. Who is your audience? what design choices will need to be made to support this audience?
+
+---
+
+## Framing Devices
+
+Think of a video game, or a movie, where someone was introduced to something.
+
+notes:
+so, at least for me, I find framing devices to be a little abstract, so lets start with an example
+
+think a bit about when you started reading a book, playing a video game, etc -- usually there is some element 
+of introduction -- concepts, ideas, setting, are introduced
+
+---
+
+## Framing Devices Example
+
+<!--
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 768px; height: 600px;" src="https://getyarn.io/yarn-clip/embed/cc875f97-6042-4c9b-861a-614c32cc08f2?autoplay=false?rel=0"> </iframe>
+-->
+
+<iframe width="1120" height="630" src="https://www.youtube-nocookie.com/embed/CLRdZuYBjr8?si=h9pTln9BGDLqjnr5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+notes:
+for example, from this great movie waynes world
+
+** play clip**
+
+** stop after hairnets joke**
+
+---
+
+## Framing Devices Example
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/Fmeb-f4pthA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+notes: 
+in this example, will see the intro from alfred hitchock presents, which was the introduction to every one of the episodes of the show 
+
+*play clip*
+
+so, every week you would see this clip and alfred hitchock would introduce the stories for that week -- this provides *stability* for the viewer, i.e. they know what to expect after this little intro would run, that they were going to see a mystery and/or a spooky story
+
+---
+
+## Framing Devices Example
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/oEgO16JaW4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+notes:
+this is an intro to a video game called "Half Life"
+
+one thing to see is that in this case you can move your head around, but you can't leave the train
+
+another thing to see is that for the first two there was a strong element of 4th wall breaking -- the characters "step out" of the story to give us information, but here, accept for the credits, you are "in" the story for the whole time
+
+but what you are getting, instead of an explanation is an *orientation* to the game -- an overview of the place and some background about the world around you
+
+---
+
+## Framing Devices
+
+What do framing devices provide?
+
+ * Context -- Wayne's exposition
+ * Stability -- Alfred Hitchcock's weekly introduction
+ * Orientation -- Half Life's train trip
+ 
+notes:
+in each of these cases, the framing device played an important role in giving the user (1) the context of the story, (2) an understanding of what kind of story was going to be taking place, i.e. a sense of stability and/or (3) an overview of the setting and context of the story
+
+---
+
+## What is a framing device?
+
+A technical-ish definition:
+
+"A Framing Device (or Frame Story) is a narrative technique wherein a writer surrounds their primary story with a secondary one. In other words, they frame their main story with another story.
+
+Framing Devices lead the audience into the larger narrative, oftentimes by having characters in the outer story tell the primary story in some way."
+
+[ScreenCraft](https://screencraft.org/2021/09/15/everything-you-need-to-know-about-framing-devices/)
+
+notes:
+disclaimer, this is not my field BUT here's a good enough definition from ScreenCraft *read*
+
+---
+
+## What is a framing device?
+
+A technical-ish definition:
+
+"A Framing Device (or Frame Story) is a narrative technique wherein a writer surrounds their primary story with a secondary one. In other words, they frame their main story with another story.
+
+Framing Devices lead the audience into the larger narrative, oftentimes by having characters in the outer story tell the primary story in some way."
+
+[ScreenCraft](https://screencraft.org/2021/09/15/everything-you-need-to-know-about-framing-devices/)
+
+OR
+
+If a piece of art is the story, the frame would be the "framing device" (hence the name!).
+
+notes:
+another way to think about this in an even broader sense is that if you have a picture of artwork, this is the story, then the frame holding that artwork is this "framing device" that is used to place your story within
+
+---
+
+## Framing Devices - beyond introductions
+
+notes:
+so, the original examples we saw where for introductions to movies/video games, but framing devices can be "holders" of the full story as well
+
+---
+
+## Framing Devices - beyond introductions
+
+<div class="left">
+<img src="https://pyxis.nymag.com/v1/imgs/99e/433/130301a4a9388de61bb821eb638122ab56-12-choose-your-own-adventure.rsquare.w700.jpg">
+</div>
+
+notes:
+one older example is the "choose your own adventure" if anybody remembers those :)
+
+in these, you would start off reading like a normal book, but then depending on what choices you make, you are told to go to different pages to continue the story and there by "choosing" your own ending
+
+here you can think of the framing device as these set of choices, and the physical turning of pages to different parts of the book depending on these different choices
+
+---
+
+## Framing Devices - beyond introductions
+
+<div class="left">
+<img src="https://pyxis.nymag.com/v1/imgs/99e/433/130301a4a9388de61bb821eb638122ab56-12-choose-your-own-adventure.rsquare.w700.jpg">
+</div>
+
+<div class="right">
+<img src="https://techcrunch.com/wp-content/uploads/2019/01/Black-Mirror-Bandersnatch-11.jpg?w=730&crop=1">
+</div>
+
+notes:
+a much newer example is netflix's bandersnatch in which you are watching an episode of blackmirror, but you are allowed to make decisions that determine the outcome
+
+in this case, part of the framing device is the remote that you click that determines these choices
+
+---
+
+## Framing Device Choices
+
+  * data informed vs. data driven
+  * interactive vs. static
+  * guided vs. unguided
+  * audience
+
+notes:
+when we are chosing how to frame our data story to our audience, there are several choices we have to make 
+
+or sometimes these choices are determined by the kind of story we want to tell and the medium of telling
+
+---
+
+## Informing versus Driving
+
+Do you want your audience to be able to recreate your input data?  To make inferences?  Or is it appropriate to focus on conveying broad ideas, without one-to-one mapping of information to visualization?
+
+Our stories must be *honest*.
+
+How can we relate this to thinking about inductive as opposed to deductive storytelling?
+
+<div class="left">
+<img src="https://imgix.ranker.com/list_img_v2/18997/538997/original/best-anime-series-all-time-u4">
+</div>
+
+<div class="right">
+<img src="https://media.graphcms.com/hRXLqP4XTH2UnjVJkLTe">
+</div>
+
+notes:
+the distinction between data driven an data informed can be thought of a bit of as do you want your user to get a broad concept derived from data (data informed) OR do you want them to be able to recreate your graphs or visualizations/input data? (data driven)
+
+on both the left and right we see a depiction of the popularity of some anime cartoons
+
+on the left though, only little pictures showing which are the most popular -- we could not backtrack out what the data was here and make our own graph and try to figure things out like by *how much* is Death Note "winning" compared to (maybe?) Attack on Titan(?) (I am not an anime expert!)
+
+on the right however, we have names of each and actual numbers (in the millions on the bottom). both of these show the popularity of anime over time periods, but you only get a "feel" for relative popularities on the left, you would need something like the graph on the right to actually get the data and remake on your own
+
+---
+
+## Storytelling Form: interactive vs static
+
+ * Narrative
+ * Navigable
+ * Hybrid
+ 
+notes:
+another decision we need to make is how much control do we want to give our audience in the exploration of the story?
+
+ * narrative: you go tell someone, or canned conversations in a game
+ * navigable: user is in control, more invested in some cases
+ * hybrid: spectrum! this is often what we will do -- for example with google data studio the user can have some control over the look of a graph, or the range of data in it, but they don't have control over what graphs are present in your report -- you do!
+ 
+
+
+---
+
+## Style of Story: Interactive/Navigable
+
+Do we give the person control?  How much control?  What do we need to retain?
+
+<ul>
+ <li class="fragment"><b>Causality</b>: Do we want to start <i>en media res</i>? Are we just experiencing a bunch of events that happen to occur?</li>
+ <li class="fragment"><b>Control</b>: How many degrees of freedom do we provide? When does it become confusing?  Is it sequential, random access, or a hybrid?</li>
+ <li class="fragment"><b>Connection</b>: Does the experience (the teller) enable a connection between the data (the tale) and the viewer (the told)?</li>
+</ul>
+
+notes: 
+here "en media res" means in the middle of the story
+
+---
+
+## Style of Story: Static
+
+Things sit there.  People can explore with their eyes, but the reference points never change under their feet.
+
+These can be effective, but can also be less visceral.
+
+notes:
+this can be like a static webpage or a static bbc article
+
+---
+
+## Style of Story: Hybrid
+
+A large-scale progression, coupled with intermediate diagrams that may be navigable.
+
+notes:
+again, this is likely what you will use for any interactive data stories you make
+
+---
+
+## Style of Story: Guided vs Unguided
+
+ * [Bear Attack Survival Quiz](https://www.nytimes.com/interactive/2021/well/live/bear-attack-tips.html)
+ * [Figures in the Sky](http://www.datasketch.es/may/code/nadieh/) (and [write-up](https://www.visualcinnamon.com/portfolio/figures-in-the-stars))
+ 
+ 
+Other cool sites we won't get to:
+ * [Selfie City](http://selfiecity.net/)
+ * [Letter Frequency](https://public.tableau.com/en-us/gallery/frequency-letters)
+ * [Legend of Nixon, Sonically](https://twotone.io/examples/legend-of-nixon/) (also check out  https://twotone.io/)
+
+notes:
+
+another thing we have to consider is how to guide users through our data story -- this relates to causality in an interactive/navigatable type story causality means that we don't need to know one thing before the next
+
+for example, the bear attack quiz (which is possibly the best waste of time I've participated in online in the recent past) walks you through learning about bears through framing this knowledge in a quiz. It is interactive, but there are pre-determined steps and in a sense the information you learn is causal -- you don't get a bear attack survival rating until the very end
+
+we can contrast that to something like Figures in the Sky in which there is some "top to bottom" navigation, but the user can select what to investigate and the order doesn't really matter
+
+---
+
+## Designing Your Story: Consider your audience (and medium!)
+
+ 1. What medium will you use?
+    * How do you want people to "consume" it?
+    * What are the pre-requisites?
+    * What do you need to do to prepare it?
+ 2. What should it look like?
+    * How "risky" should it be?
+    * Is there a "visual language" you could use?
+ 3. Where are the dimensions?
+    * What can change?
+    * What can stay the same?
+    * What can the audience control, and what can they not?
+
+notes:
+another important thing to consider when thinking about designing your story is how your audience will interact with any medium you choose to use to convey your story
+
+you should consider this medium and how folks can get to it
+ * do they need a subscription? is it findable? 
+ * what do you assume your audience knows before accessing your visualization?
+ * how do you need to modify your data so that folks can see/understand your points?
+ 
+what are the aethetics?
+ * is there a visual language you can use? for example, many folks are already familiar with barcharts
+ * if you choose a more complicated visization, make sure there is a reason for this
+ 
+how interactive?
+ * again, thinking about how much you want your audience to be able to control and in what order -- this choice might be audience-dependent!
+
+
+---
+
+## Twine
+
+Going forward in the class we are going to use Twine (and a bit of Google Data Studio & PowerBI with in Twine).
+
+Twine is a way to build interactive narratives in the browser, that can be
+experienced and guided.
+
+
+---
+
+## Twine
+
+Going forward in the class we are going to use Twine (and a bit of Google Data Studio & PowerBI with in Twine).
+
+Twine is a way to build interactive narratives in the browser, that can be
+experienced and guided.
+
+**You will be using Twine for MiP4 in the coming weeks.**
+
+notes:
+**be sure to call out MiP4!**
+
+---
+
+## Twine: An example
+
+Twine is a way to build interactive narratives in the browser, that can be experienced and guided.
+
+This is also a way to "storyboard" our Data Story presentations (totally optional!).
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/Fp9Sxiv-O-0?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+notes:
+
+we'll use twine to explore these ideas about how to implement these in more detail!
+
+We'll start looking at this now and then get to play with it more next week as well
+
+Video info:
+* starts at the intro to twine
+* let it run until ~1.5 minutes, then click around a bit
+* then go to next slide for history
+
+---
+
+## Twine: History
+
+Twine is a way to build interactive narratives in the browser, that can be experienced and guided.
+
+This is also a way to "storyboard" our Data Story presentations (totally optional!).
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/Fp9Sxiv-O-0?start=382" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+notes:
+we'll use twine to explore these ideas about how to implement these in more detail!
+
+We started doing this last week and we'll get a chance to work on these more now.
+
+Video info:
+* auto starts at 6:22 until about 7:59/8 is the history of twine
+
+---
+
+## Twine: Resources
+
+<img src="images/twineIntro/twineResources.png">
+
+notes:
+We have a set of resources for you to check out for twine -- while we won't be covering how to incorporate JavaScript in twine, there are a set of tutorials about how to do so at these resources, so feel free to check them out if you want to!
+
+---
+
+## Twine: Other Examples
+
+* [Cat Petting Simulator](https://neongrey.itch.io/pet-that-cat)
+* [Rainy Day](https://thaisa.itch.io/rainy-day)
+* [Temple of No](https://itch.io/queue/c/314317/twine-examples?game_id=72357)
+
+notes:
+for temple of no -- be sure to click on the underlined words!

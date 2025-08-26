@@ -61,7 +61,7 @@ The link will be on Canvas like so with big bold letters telling you not to clic
 
 <img src="images/example_quiz_canvas_boxtop.png">
 
-Full assessment list on PrairieLearn: https://us.prairielearn.com/pl/course_instance/172808
+Full assessment list on PrairieLearn: https://us.prairielearn.com/pl/course_instance/187558
 
 
 

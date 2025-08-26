@@ -6,7 +6,7 @@ tags:
   - concepts
 description: >-
   The syllabus for the course, and an overview of course policies and materials.
-date: 2025-01-27
+date: 2025-08-28
 ---
 
 <br><br><br>
@@ -555,6 +555,8 @@ Recommended tutorials & recordings are posted at the top of the "Modules" part o
 notes:
 for these topics, we will post some suggested resources including tutorials and recordings before class -- we have one for this class, but it is the first class so it is hard to do things before!
 
+**show where these are on Canvas!**
+
 ---
 
 ## Plagiarism
@@ -582,11 +584,11 @@ Let's practice taking attendance!
 notes:
 as mentioned before, we need all of you to be here on time -- we'll give folks a 5 minute grace period before taking attendance at the start of class, otherwise you'll get partial credit
 
-we'll take attendance using a variety of methods throughout the course, but let's practice our first one
+we may use a few different ways of taking attendance throughout the course, but let's practice our first one
 
-**give TA the mic**
+**TA uses card reader**
 
-We actually won't be "counting" the attendances before the 10th day (which is next week), so this was just practice, but we will be putting in attendance grades today so folks can see what that will look like.
+We actually won't be "counting" the attendances before the 10th day, so this was just practice, but we will be putting in attendance grades today so folks can see what that will look like.
 
 We will delete today's grades after 10th day.
 

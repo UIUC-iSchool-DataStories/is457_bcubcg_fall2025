@@ -588,7 +588,7 @@ notes:
 ## Logistics
 
 * In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 7
+* Your group will be assigned a presentation day Week 4 - Week 6
 
 
 notes:
@@ -602,7 +602,7 @@ we can shift a bit if you need to swap with a group, but that will be easier to 
 ## Logistics
 
 * In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 7
+* Your group will be assigned a presentation day Week 4 - Week 6
 * One member of your group will need to connect their computer to the classroom displays -- HDMI (bring adapter!)
 
 
@@ -617,7 +617,7 @@ myself and the TA will try to remember to bring a dongle, but please don't depen
 ## Logistics
 
 * In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 7
+* Your group will be assigned a presentation day Week 4 - Week 6
 * One member of your group will need to connect their computer to the classroom displays -- HDMI (bring adapter!)
 * Turn in slides the day you present
 
@@ -629,7 +629,7 @@ you will upload your slides on the day you present as part of your submission
 ## Logistics
 
 * In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 7
+* Your group will be assigned a presentation day Week 4 - Week 6
 * One member of your group will need to connect their computer to the classroom displays -- HDMI (bring adapter!)
 * Turn in slides the day you present
 * There will be a sign up sheet -- no duplicate posts!

@@ -1,12 +1,12 @@
 ---
-title: Lecture 2.4 - Groups & Group Formation
+title: Lecture 2.3 - Groups & Group Formation
 layout: lecture
 tags:
   - overview
   - concepts
 description: >-
   Overview of how Groups will be formed and used throughout class.
-date: 2025-02-03
+date: 2025-09-04
 ---
 
 <br><br><br>
@@ -94,9 +94,9 @@ notes:
 
 <img src="images/groupFormation/pl_survey_overview_ann3.png" width=100%>
 
-First day of presentations is 2/17.
+First day of presentations is 9/18.
 
-We will have time at the end of class on 2/10 for you to work on this assignment, but expect to do outside-of-class work as well.
+We will have time at the end of class on 9/11 for you to work on this assignment, but expect to do outside-of-class work as well.
 
 notes:
 
@@ -128,11 +128,11 @@ so, for example, if you pick someone and the person you pick picks someone back,
 
 ## Timeline
 
-* Group Formation opens at 10am, Tuesday, 2/4
-* Submissions must be in by Wednesday, 2/5 at midnight
-* Groups are formed on Thursday, 2/6 & sign ups for "tweets" begin (there will be an announcement)
-* Work in groups starts on Monday, in class, 2/10
-* First day of presentations is Monday, 2/17
+* Group Formation opens at 10am, Tuesday, 9/9
+* Submissions must be in by Wednesday, 9/10 at midnight
+* Groups are formed on Thursday, 9/11 & sign ups for "tweets" begin (there will be an announcement)
+* Work in groups starts on Monday, in class, 9/11
+* First day of presentations is Monday, 9/18
 
 notes:
 **read**
@@ -446,12 +446,14 @@ these groups will be created entirely by random
 <ul>
     <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
     <li><font color='blue'>Group Set 2</font>: random selection</li>
-    <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
+    <li><font color='magenta'>Group Set 3</font>: self-selection, group size of 1 (individual) up to ~4, groups will also be used for MP2: Final Data Stories</li>
 </ul>
 
 notes:
 Group set 3 will be used for the Community Data Story minor project, as well as all components of the Final Data Story culminating project
 
 at this point in the class, you will have had an opportunity to work with a variety of folks and so you can decide who you want to work with for the final data story as well as the Community Data Story project
+
+**because these are self selected groups** our suggestion is to be sure to be a productive group member in Groupset 1 & 2!
 
 **pause for questions**

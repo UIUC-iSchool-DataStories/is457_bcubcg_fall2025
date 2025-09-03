@@ -1,5 +1,5 @@
 ---
-title: Lecture 2.2 - Tweet Critiques
+title: Lecture 2.1 - Tweet Critiques
 layout: lecture
 tags:
   - overview

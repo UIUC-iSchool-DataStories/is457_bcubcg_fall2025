@@ -1,5 +1,5 @@
 ---
-title: Lecture 2.3 - Groups & Group Formation
+title: Lecture 2.2 - Groups & Group Formation
 layout: lecture
 tags:
   - overview

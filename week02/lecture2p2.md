@@ -1,422 +1,145 @@
 ---
-title: Lecture 2.2 - Tweet Critiques
+title: Lecture 2.3 - Groups & Group Formation
 layout: lecture
 tags:
   - overview
   - concepts
 description: >-
-  Introduction to our first Major Project.
+  Overview of how Groups will be formed and used throughout class.
 date: 2025-09-04
 ---
 
 <br><br><br>
 
-# Have you ever seen a confusing or misleading data visualization on social media?
+# Groups!
 
 notes:
-**ask for a raise of hands**
+part of working in academia or industry is the ability to work as a team
 
-now is your chance to complain (but in a structured way, and with slides :D)
+we'll have several opportunities to do this, with different groups of folks in this class
 
+and we'll scaffold you through the process of working together as well
 
 ---
 
-<div class="left">
-<!--
-<img src="https://i.imgflip.com/2ez4f8.jpg">
--->
-<img src="https://pbs.twimg.com/media/F4RtN9HWgAAhYUG.png">
-</div>
+## Group Set 1 (MP1 & MiP1)
 
-<div float='right' text-align='left'>
-Bad arguments are not difficult to find in social media. <font color="#FFFFFF"> After reading <a href="https://bookofbadarguments.com/"><font color="#FFFFFF">An Illustrated Book of Bad Arguments by Almossawi</font></a> and reviewing the <a href="https://datahazards.com/labels.html"><font color="#FFFFFF">Data Hazards website</font></a>, students will identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization. This will be an oral presentation with slides. Specifically, you will make a 5-7 minute presentation with 3–5 slides (presentation dates will be assigned) to answer the question: What makes this argument bad and what are the data hazards?</font>
-</div>
-<div class='right'>
--- The Syllabus
-</div>
+Group formation will be using the ["astromimicry" concept](https://arxiv.org/pdf/2203.11218.pdf).
 
 notes:
-So, let's go through the description of the assignment in some detail.
 
-As we just discussed, we know that bad arguments are not hard to come by on social media.  In groups, you're going to investigate this in a structured way.
+groups will be a combination of your selection and randomly assigned, following concepts of "astromimicry"
 
-**be aware** while this is called a "Tweet Critique" this is mostly because its a fun sounding name -- you can use posts from Twitter (or X or whatever), Mastadon, Reddit, etc
+the basic idea is that for this first group, you get to choose one person you want to work with and then we randomly assign you to a group with other folks in this "binary star" configuration
 
 ---
 
-<div class="left">
-<!--
-<img src="https://i.imgflip.com/2ez4f8.jpg">
--->
-<img src="https://pbs.twimg.com/media/F4RtN9HWgAAhYUG.png">
-</div>
+## Group Set 1 (MP1 & MiP1)
 
-<div float='right' text-align='left'>
-Bad arguments are not difficult to find in social media.  After reading <a href="https://bookofbadarguments.com/">An Illustrated Book of Bad Arguments by Almossawi</a> and reviewing the <a href="https://datahazards.com/labels.html">Data Hazards website</a>, <font color="#FFFFFF">students will identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization. This will be an oral presentation with slides. Specifically, you will make a 5-7 minute presentation with 3–5 slides (presentation dates will be assigned) to answer the question: What makes this argument bad and what are the data hazards?</font>
-</div>
-<div class='right'>
--- The Syllabus
-</div>
+Group formation will be using the ["astromimicry" concept](https://arxiv.org/pdf/2203.11218.pdf).
+
+Group size: ~4 people per group.
 
 notes:
-The next part of the description mentions the "Book of Bad Arguments" and the "Data Hazards" website, so let's look at those.
+
+size of groups will be about 4 people, it will depend a bit on the final size of the class after 10th day
 
 ---
 
-## The Illustrated Book of Bad Arguments
+## Group Set 1 (MP1 & MiP1)
 
-<img src="https://bookofbadarguments.com/images/1.jpg">
+Group formation will be using the ["astromimicry" concept](https://arxiv.org/pdf/2203.11218.pdf).
+
+Group size: ~4 people per group.
+
+Design of group contracts will be part of an in class activity.
 
 notes:
-the first tool we'll be using is the online illustrated book of bad arguments which has a set of examples of common *logical fallacies* which are illustrated with (in my opinion) wonderfully creepy animal pictures
+
+there will be an in class activity next week aimed at cementing the ways in which you will be working in a group -- i.e. how the group will communicate, how work will be divided, etc
 
 ---
 
-## The Illustrated Book of Bad Arguments
+## Group Formation "Activity"
 
-<img src="images/bookOfBadArg/definition_p52_1.png" alt="book of bad arguments definitions page, page 52" width=70%>
-
-[https://bookofbadarguments.com](https://bookofbadarguments.com)
+<img src="images/groupFormation/pl_survey_overview.png" width=100%>
 
 notes:
-be sure to check out the back few pages of the book in order to see some important definitions, including...
+
+the group formation activity will be part of a PL quiz, but will count as an "in class" activity.
+
+to get points for this you need to fill out all of the questions in the survey
+
+overview of the choices in the quiz are...
 
 ---
 
-## The Illustrated Book of Bad Arguments
+## Group Formation "Activity"
 
-<img src="images/bookOfBadArg/definition_p52_2.png" alt="book of bad arguments definitions page, page 52, highlighted" width=70%>
-
-[https://bookofbadarguments.com](https://bookofbadarguments.com)
+<img src="images/groupFormation/pl_survey_overview_ann1.png" width=100%>
 
 notes:
-... the logical fallacies you'll want to draw from to see which apply to your particular "tweet".  These are basically an error in reasoning which leads to a faulty argument (see their formal definition of an argument)...
 
 ---
 
-## The Illustrated Book of Bad Arguments
+## Group Formation "Activity"
 
-<img src="images/bookOfBadArg/definition_p52_3.png" alt="book of bad arguments definitions page, page 52, different highlights" width=70%>
-
-[https://bookofbadarguments.com](https://bookofbadarguments.com)
+<img src="images/groupFormation/pl_survey_overview_ann2.png" width=100%>
 
 notes:
-... there are many reasons that one can make an error in reasoning including **read the list** and this book gives a quick overview of several common errors.
 
 ---
 
-## Data Hazard Labels
+## Group Formation "Activity"
 
-<div class='left'>
-<img src="images/dataHazardLabels/automates_decisions.png" alt="the automates decisions label" width=70%>
-</div>
+<img src="images/groupFormation/pl_survey_overview_ann3.png" width=100%>
 
-<div class='right'>
-<img src="images/dataHazardLabels/risk_to_privacy.png" alt="the risk to privacy label" width=70%>
-</div>
+First day of presentations is 9/18.
 
-[https://datahazards.com/labels.html](https://datahazards.com/labels.html)
+We will have time at the end of class on 9/11 for you to work on this assignment, but expect to do outside-of-class work as well.
 
 notes:
-In addition to logical fallacies, you'll be pulling from the Data Hazards Labels, which have direct implications for using data in various ways, including in visualizations aimed at the public on social media. 
 
-Here are just two examples **read** but there are several others which might apply to the data shown in your chosen social media post.
+**read dates!**
 
 ---
 
-<div class="left">
-<!--
-<img src="https://i.imgflip.com/2ez4f8.jpg">
--->
-<img src="https://pbs.twimg.com/media/F4RtN9HWgAAhYUG.png">
-</div>
+## Group Formation "Activity"
 
-<div float='right' text-align='left'>
-Bad arguments are not difficult to find in social media.  After reading <a href="https://bookofbadarguments.com/">An Illustrated Book of Bad Arguments by Almossawi</a> and reviewing the <a href="https://datahazards.com/labels.html">Data Hazards website</a>, <font color="#FFFFFF">students will identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization. This will be an oral presentation with slides. Specifically, you will make a 5-7 minute presentation with 3–5 slides (presentation dates will be assigned) to answer the question: What makes this argument bad and what are the data hazards?</font>
-</div>
-<div class='right'>
--- The Syllabus
-</div>
+<img src="images/groupFormation/pick_person.png" width=80%>
 
 notes:
-Ok, so coming back to the assignment description...
+what you'll see on the first question will be a list of people + UID's that are enrolled in the course
+
+you can choose to have us just place you in a group OR you can select one person from this list
 
 ---
 
-<div class="left">
-<!--
-<img src="https://i.imgflip.com/2ez4f8.jpg">
--->
-<img src="https://pbs.twimg.com/media/F4RtN9HWgAAhYUG.png">
-</div>
+## Group Formation "Activity"
 
-<div float='right' text-align='left'>
-Bad arguments are not difficult to find in social media.  After reading <a href="https://bookofbadarguments.com/">An Illustrated Book of Bad Arguments by Almossawi</a> and reviewing the <a href="https://datahazards.com/labels.html">Data Hazards website</a>, students will identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization. <font color="#FFFFFF">This will be an oral presentation with slides. Specifically, you will make a 5-7 minute presentation with 3–5 slides (presentation dates will be assigned) to answer the question: What makes this argument bad and what are the data hazards?</font>
-</div>
-<div class='right'>
--- The Syllabus
-</div>
+<img src="images/groupFormation/pick_person_ann1.png" width=80%>
 
 notes:
-... after reading the Book of Bad Arguments and the Data Hazards Labels, you'll have a better idea of what you are looking for for your particular "bad argument" social media post.   
+**be aware** the person you pick has to pick you back in order to be in the same group
 
-You just need to find one post using data or a data visualization -- but be sure to check the rubric for the assignment as this will likely be easier to do with a post that has some data visualization in the tweet
+so, for example, if you pick someone and the person you pick picks someone back, that doesn't mean you'll 3 be in a group together, that means we'll pick randomly for you
 
 ---
 
-<div class="left">
-<!--
-<img src="https://i.imgflip.com/2ez4f8.jpg">
--->
-<img src="https://pbs.twimg.com/media/F4RtN9HWgAAhYUG.png">
-</div>
+## Timeline
 
-<div float='right' text-align='left'>
-Bad arguments are not difficult to find in social media.  After reading <a href="https://bookofbadarguments.com/">An Illustrated Book of Bad Arguments by Almossawi</a> and reviewing the <a href="https://datahazards.com/labels.html">Data Hazards website</a>, students will identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization. This will be an oral presentation with slides. Specifically, you will make a 5-7 minute presentation with 3–5 slides (presentation dates will be assigned) <font color="#FFFFFF">to answer the question: What makes this argument bad and what are the data hazards?</font>
-</div>
-<div class='right'>
--- The Syllabus
-</div>
-
-notes:
-After finding your post with the "bad argument" viz, you'll make a presentation with your group with roughly 3-5 slides, over about 5-7 minutes which...
-
----
-
-<style>
-  .img {
-  border-radius: 5px; 
-  border-bottom-width:50px;
-  border-style: solid;
-  border-color: white;
-  margin: auto;
-  background:white;
-}
-</style>
-
-<div class="left">
-<!--
-<img src="https://i.imgflip.com/2ez4f8.jpg">
--->
-<div class="img margin">
-<img src="https://pbs.twimg.com/media/F4RtN9HWgAAhYUG.png">
-</div>
-</div>
-
-<div float='right' text-align='left'>
-Bad arguments are not difficult to find in social media.  After reading <a href="https://bookofbadarguments.com/">An Illustrated Book of Bad Arguments by Almossawi</a> and reviewing the <a href="https://datahazards.com/labels.html">Data Hazards website</a>, students will identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization. This will be an oral presentation with slides. Specifically, you will make a 5-7 minute presentation with 3–5 slides (presentation dates will be assigned) to answer the question: What makes this argument bad and what are the data hazards?
-</div>
-<div class='right'>
--- The Syllabus
-</div>
-
-notes:
-... clearly demonstrates what makes the argument bad (i.e. which logical fallacy(s) are present) and which data hazard(s) are at play?
-
----
-
-## Example
-
-<!--
-<img src="images/badtweets/example1.jpg" width=50%>
--->
-
-<img src="https://64.media.tumblr.com/c4fb35ecea0f97aee6d2c9fb30e34448/84517b53972b0daa-31/s1280x1920/16fbaf109180423cab2b9410f50027fd7a20fd2b.jpg" width=50% alt="tweet from: https://x.com/BetMGM/status/1472977046552956932">
-
-notes:
-so this is a very silly and albeit moderately creepy example, but let's ask some questions:
-
-**ask these**
-
-What do we think the poster is trying to show with this visualization?
-
-What do we think is wrong about this visualization?  What is misleading?
-
-What do we think might be the motivations behind the poster of this visualization?  In general, we want to be careful trying to understand the motivations of individuals, but this is a corporation's post so it's worth thinking about the motivations here.
-
----
-
-<style>
-  .container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr;
- column-gap: 5px;
-}
-
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-</style>
-
-<div class="container">
-  <div class="image">
-    <img src="https://64.media.tumblr.com/c4fb35ecea0f97aee6d2c9fb30e34448/84517b53972b0daa-31/s1280x1920/16fbaf109180423cab2b9410f50027fd7a20fd2b.jpg" width=75% alt="tweet from: https://x.com/BetMGM/status/1472977046552956932">
-  </div>
-  <div class="text">
-    <u>Appeal to Irrelevant Authority</u>
-    <ul>
-      <li>The graphic comes from a fairly large company, giving it an air of authority.</li>
-      <li>There is no citation on the tweet description for the data or how it was collected.</li>
-    </ul>
-  </div>
-</div>
-
-
-notes:
-there are several bad arguments that might fit for this one, but an example could be the "Appeal to Irrelevant Authority":
-* the graphic is posted by a large betting company
-* there is also no citation for the data -- you are just supposed to believe them when they tell you this info
-
-
----
-
-## Step by step, students will:
-
-notes:
-in summary, for this assignment in your groups you will...
-
----
-
-## Step by step, students will:
-1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
+* Group Formation opens at 10am, Tuesday, 9/9
+* Submissions must be in by Wednesday, 9/10 at midnight
+* Groups are formed on Thursday, 9/11 & sign ups for "tweets" begin (there will be an announcement)
+* Work in groups starts on Monday, in class, 9/11
+* First day of presentations is Monday, 9/18
 
 notes:
 **read**
 
----
-
-## Step by step, students will:
-1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
-2. make a copy of it (with proper citation of authorship, where found, when posted),
-
-notes:
-**read**
+**pause for questions**
 
 ---
-
-## Step by step, students will:
-1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
-2. make a copy of it (with proper citation of authorship, where found, when posted),
-3. explain what makes it a bad argument (logical fallacies *and* data hazards present), and
-
-notes:
-**read**
-
----
-
-## Step by step, students will:
-1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
-2. make a copy of it (with proper citation of authorship, where found, when posted),
-3. explain what makes it a bad argument (logical fallacies *and* data hazards present), and
-4. analyze the tweet (words, image, source, context, etc.) in a 5-7 minute in-class presentation.
-
-
-notes:
-**read**
-
----
-
-## Step by step, students will:
-1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
-2. make a copy of it (with proper citation of authorship, where found, when posted),
-3. explain what makes it a bad argument (logical fallacies *and* data hazards present), and
-4. analyze the tweet (words, image, source, context, etc.) in a 5-7 minute in-class presentation.
-
-Please include the original tweet in your paper or presentation slides.
-
-
-notes:
-**read**
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-notes:
-if you check out the rubric for this assignment (it is linked on Canvas), you'll see there are a few things we are looking for
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-1. Clarity: Is the bad argument clearly explained? 
-
-notes:
-First, you want to fully be able to explain the argument that is being made in the social media post you are showing.
-
-How will you make sure your audience is following this?
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-1. Clarity: Is the bad argument clearly explained? 
-1. Data visualization: is the problematic visualization included and explained? 
-
-notes:
-You will also want to make sure your audience (us) can fully follow *why* the visualization is problematic.
-
-This can be tricky with confusing visualizations, so you will have to spend some some time carefully considering how you'll make the issues with the confusing visualization clear to your audience. 
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-1. Clarity: Is the bad argument clearly explained? 
-1. Data visualization: is the problematic visualization included and explained? 
-1. Analysis: Is the bad argument analyzed, in relation to the categories of bad arguments from Almossawi and anything else that makes this bad? 
-
-notes:
-You'll want to clearly explain which of the logical fallacies apply to your chosen social media post.
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-1. Clarity: Is the bad argument clearly explained? 
-1. Data visualization: is the problematic visualization included and explained? 
-1. Analysis: Is the bad argument analyzed, in relation to the categories of bad arguments from Almossawi and anything else that makes this bad? 
-1. Analysis: Is the appropriate Data Hazard Label discussed in relation to the data used in the visualization presented? 
-
-notes:
-You'll also want to pick out which of the data hazard labels apply to your post as well.
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-1. Clarity: Is the bad argument clearly explained? 
-1. Data visualization: is the problematic visualization included and explained? 
-1. Analysis: Is the bad argument analyzed, in relation to the categories of bad arguments from Almossawi and anything else that makes this bad? 
-1. Analysis: Is the appropriate Data Hazard Label discussed in relation to the data used in the visualization presented? 
-1. Audience engagement: Is there a clear strategy for engaging the audience in the presentation? 
-
-notes:
-Finally, we want you to think a bit about how to keep your audience engaged in your presentation.
-
-We'll talk about specific strategies as we go along in the class, but we want you to start thinking about this now.
-
----
-
-## Tweet Critiques: Things we’re looking for
-
-1. Clarity: Is the bad argument clearly explained? 
-1. Data visualization: is the problematic visualization included and explained? 
-1. Analysis: Is the bad argument analyzed, in relation to the categories of bad arguments from Almossawi and anything else that makes this bad? 
-1. Analysis: Is the appropriate Data Hazard Label discussed in relation to the data used in the visualization presented? 
-1. Audience engagement: Is there a clear strategy for engaging the audience in the presentation? 
-
-Please see the rubric linked on the assignment on Canvas for more details.
-
-notes:
-
-
----
-
-## Final Data Stories -- Building Block Assignments
 
 <style>
 .table_component {
@@ -464,18 +187,18 @@ notes:
     </thead>
     <tbody>
         <tr>
-            <td>&bull; MP1: Tweet Critique</td>
-            <td>&bull; MiP1: Google Data Studio (GDS)</td>
+            <td>&bull; MP1: Tweet Critique </br><font color="white">(Group Set 1)</font></td>
+            <td>&bull; MiP1: Google Data Studio (GDS) </br><font color="white">(Group Set 1)</font></td>
             <td>&bull; Readings (theory)</td>
         </tr>
         <tr>
-            <td>&bull; MiP3: Community Data Story</td>
+            <td>&bull; MiP3: Community Data Story </br><font color="white">(Group Set 3)</font></td>
             <td>&bull; In class activities (PowerBI/GDS)</td>
             <td>&bull; In class activities (structure/theory practice)</td>
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (PowerBI)</td>
+            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><font color="white">(Group Set 2)</font></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -486,11 +209,9 @@ notes:
 * MiP = Minor Project (some in class/some out of class time)
 
 notes:
-just to situate ourselves, if we remember how we are using these assignments to scaffold ourselves to the final data story...
+Looking forward, we'll do overall 3 different groups for several of these assignments...
 
 ---
-
-## Final Data Stories -- Building Block Assignments
 
 <style>
 .table_component {
@@ -538,103 +259,201 @@ just to situate ourselves, if we remember how we are using these assignments to 
     </thead>
     <tbody>
         <tr>
-            <td>&bull; <font color='red'>MP1: Tweet Critique</font></td>
-            <td>&bull; MiP1: Google Data Studio (GDS)</td>
+            <td>&bull; MP1: Tweet Critique </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; MiP1: Google Data Studio (GDS) </br><font color="red">(Group Set 1)</font></td>
             <td>&bull; Readings (theory)</td>
         </tr>
         <tr>
-            <td>&bull; MiP3: Community Data Story</td>
+            <td>&bull; MiP3: Community Data Story </br><font color="white">(Group Set 3)</font></td>
             <td>&bull; In class activities (PowerBI/GDS)</td>
             <td>&bull; In class activities (structure/theory practice)</td>
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (PowerBI)</td>
+            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><font color="white">(Group Set 2)</font></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
 </table>
 </div>
 
-* MP = Major Project (expect significant out-of-class time)
-* MiP = Minor Project (some in class/some out of class time)
+<ul>
+    <li>MP = Major Project (expect significant out-of-class time)</li>
+    <li>MiP = Minor Project (some in class/some out of class time)</li>
+</ul>
+</br></br>
+<ul>
+    <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
+</ul>
 
 notes:
-the tweet critique is our first opportunity to get some practice giving presentations
+Group set 1 will be for Tweet critiques and GDS major and minor projects
 
-this assignment is not only a way for you all to start thinking critically about data viz you see "out in the wild" but also an opportunity for the instructional team to give you feedback on your presentation style and structure, so please do look over the written feedback your group will get with this assignment
+More on the GDS minor project next week
 
 ---
 
-## Logistics
+<style>
+.table_component {
+    overflow: auto;
+    width: 100%;
+}
+
+.table_component table {
+    border: 0px none #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+}
+
+.table_component caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.table_component th {
+    border: 1px none #dededf;
+    background-color: #eceff1;
+    color: #000000;
+    padding: 5px;
+}
+
+.table_component td {
+    border: 1px none #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+</style>
+<div class="table_component" role="region" tabindex="0">
+<table border="0">
+    <thead>
+        <tr>
+            <th>Presentation Practice & Skills</th>
+            <th>Data Analysis & Viz Tools</th>
+            <th>Story Structure & Theory</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&bull; MP1: Tweet Critique </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; MiP1: Google Data Studio (GDS) </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; Readings (theory)</td>
+        </tr>
+        <tr>
+            <td>&bull; MiP3: Community Data Story </br><font color="white">(Group Set 3)</font></td>
+            <td>&bull; In class activities (PowerBI/GDS)</td>
+            <td>&bull; In class activities (structure/theory practice)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><font color="blue">(Group Set 2)</font></td>
+            <td>&bull; MiP4: Twine storyboarding</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<ul>
+    <li>MP = Major Project (expect significant out-of-class time)</li>
+    <li>MiP = Minor Project (some in class/some out of class time)</li>
+</ul>
+</br></br>
+<ul>
+    <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
+    <li><font color='blue'>Group Set 2</font>: random selection</li>
+</ul>
 
 notes:
+Group set 2 will be used for the Viz for Villiany assignment with PowerBI that will be introduced in a few weeks
 
-to wrap up, a few logistics we need to keep in mind...
+these groups will be created entirely by random
 
 ---
 
-## Logistics
+<style>
+.table_component {
+    overflow: auto;
+    width: 100%;
+}
 
-* In groups (more on that in a moment)
+.table_component table {
+    border: 0px none #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+}
 
+.table_component caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.table_component th {
+    border: 1px none #dededf;
+    background-color: #eceff1;
+    color: #000000;
+    padding: 5px;
+}
+
+.table_component td {
+    border: 1px none #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+</style>
+<div class="table_component" role="region" tabindex="0">
+<table border="0">
+    <thead>
+        <tr>
+            <th>Presentation Practice & Skills</th>
+            <th>Data Analysis & Viz Tools</th>
+            <th>Story Structure & Theory</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&bull; MP1: Tweet Critique </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; MiP1: Google Data Studio (GDS) </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; Readings (theory)</td>
+        </tr>
+        <tr>
+            <td>&bull; MiP3: Community Data Story </br><font color="magenta">(Group Set 3)</font></td>
+            <td>&bull; In class activities (PowerBI/GDS)</td>
+            <td>&bull; In class activities (structure/theory practice)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><font color="blue">(Group Set 2)</font></td>
+            <td>&bull; MiP4: Twine storyboarding</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<ul>
+    <li>MP = Major Project (expect significant out-of-class time)</li>
+    <li>MiP = Minor Project (some in class/some out of class time)</li>
+</ul>
+</br></br>
+<ul>
+    <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
+    <li><font color='blue'>Group Set 2</font>: random selection</li>
+    <li><font color='magenta'>Group Set 3</font>: self-selection, group size of 1 (individual) up to ~4, groups will also be used for MP2: Final Data Stories</li>
+</ul>
 
 notes:
+Group set 3 will be used for the Community Data Story minor project, as well as all components of the Final Data Story culminating project
 
-... these presentations will be in groups -- more on how those groups will be formed in a moment ...
+at this point in the class, you will have had an opportunity to work with a variety of folks and so you can decide who you want to work with for the final data story as well as the Community Data Story project
 
----
+**because these are self selected groups** our suggestion is to be sure to be a productive group member in Groupset 1 & 2!
 
-## Logistics
-
-* In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 6
-
-
-notes:
-
-your group will be given a day to present your 5-7 minute talk sometime between Week 4 and Week 7
-
-we can shift a bit if you need to swap with a group, but that will be easier to do right after we assign groups, and we'll have less wiggle-room to move folks around later in the course
-
----
-
-## Logistics
-
-* In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 6
-* One member of your group will need to connect their computer to the classroom displays -- HDMI (bring adapter!)
-
-
-notes:
-
-be sure you can connect your computer to the screens up here -- this will be done with an HDMI connector
-
-myself and the TA will try to remember to bring a dongle, but please don't depend on it -- better to have more dongles than none!
-
----
-
-## Logistics
-
-* In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 6
-* One member of your group will need to connect their computer to the classroom displays -- HDMI (bring adapter!)
-* Turn in slides the day you present
-
-notes:
-you will upload your slides on the day you present as part of your submission
-
----
-
-## Logistics
-
-* In groups (more on that in a moment)
-* Your group will be assigned a presentation day Week 4 - Week 6
-* One member of your group will need to connect their computer to the classroom displays -- HDMI (bring adapter!)
-* Turn in slides the day you present
-* There will be a sign up sheet -- no duplicate posts!
-
-notes:
-once we have folks sorted into groups, we'll open a sign-up sheet for your bad social media post -- be sure to check the URLs of what other folks have posted as we won't allow duplicates!
-
-**pause here** -- besides questions about how groups will be formed, which we'll talk about next, are there any questions?
+**pause for questions**

@@ -1,5 +1,5 @@
 ---
-title: Lecture 3.1 - Data Sources Intro
+title: Lecture 3.2 - Data Sources Intro
 layout: lecture
 tags:
   - data sources

@@ -1,9 +1,9 @@
 ---
-title: Lecture 5.2 - PowerBI Intro
+title: Lecture 4.3 - PowerBI Intro
 layout: lecture
 description: >-
   Our first foray into PowerBI!
-date: 2025-02-17
+date: 2025-09-18
 ---
 
 <br/><br/><br/>
@@ -14,7 +14,7 @@ date: 2025-02-17
 ## What is PowerBI?
 
 
-<img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-overview/power-bi-overview-blocks.png">
+<img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-overview/power-bi-overview-blocks.png" alt="PowerBI Desktop is software you can download for your laptop/computer, PowerBI service is an application you can use online, and PowerBI Mobile is the phone/tablet version of PowerBI">
 
 
 notes:
@@ -27,7 +27,7 @@ and then we can ask, how are we going to be using it in this class?
 ## What is PowerBI?
 
 
-<img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-overview/power-bi-overview-blocks.png" width=50%>
+<img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-overview/power-bi-overview-blocks.png" width=50% alt="PowerBI Desktop is software you can download for your laptop/computer, PowerBI service is an application you can use online, and PowerBI Mobile is the phone/tablet version of PowerBI">
 
 
 From the ["PowerBI Overview"](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview):
@@ -48,7 +48,7 @@ here is a direct quote from one of the introductory overviews of powerbi
 ## What is PowerBI?
 
 
-<img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-overview/power-bi-overview-blocks.png" width=50%>
+<img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-overview/power-bi-overview-blocks.png" width=50% alt="PowerBI Desktop is software you can download for your laptop/computer, PowerBI service is an application you can use online, and PowerBI Mobile is the phone/tablet version of PowerBI">
 
 
 From the ["PowerBI Overview"](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview):
@@ -68,7 +68,7 @@ you are welcome to use the desktop app if you want, just be aware instructions m
 
 ## How to get setup on PowerBI
 
-<img src="images/powerbi/onlineLink.png">
+<img src="images/powerbi/onlineLink.png" alt="A picture of the 'Online PowerBI Version' link on Canvas.  Same link as text below.">
 
 The online link is [https://app.fabric.microsoft.com/home?experience=power-bi](https://app.fabric.microsoft.com/home?experience=power-bi).
 
@@ -81,7 +81,7 @@ The link is available on the top of our Canvas Modules page, and linked here as 
 
 Further instructions on our [first walkthrough](https://docs.google.com/document/d/1xfMojST2I-l7-UDvAouXrgoEV78QDFyvQ-I1d_ZzPVY/edit?usp=sharing).
 
-<img src="images/powerbi/walkthroughlinks_1highlight.png">
+<img src="images/powerbi/walkthroughlinks_1highlight.png" alt="Image of the link on Canvas to the 'PowerBI Walkthrough #1'. Same link as text above.">
 
 notes:
 further instructions are linked in our first walkthrough which we will start right after this lecture, but in brief...
@@ -90,7 +90,7 @@ further instructions are linked in our first walkthrough which we will start rig
 
 ## How to get setup on PowerBI
 
-<img src="images/powerbi/find_powerbi_app.png" width="40%" style='border:1px solid #000000'>
+<img src="images/powerbi/find_powerbi_app.png" width="40%" style='border:1px solid #000000' alt="Another way to find PowerBI - by going to outlook.office.com, clicking on 'App' icon, and searching for 'Power'.">
 
 notes:
 if you go to your "usual" outlook email, you can click on the little "app" icon and search for "Power" and it will typically show up
@@ -99,7 +99,7 @@ if you go to your "usual" outlook email, you can click on the little "app" icon 
 
 ## How to get setup on PowerBI
 
-<img src="images/powerbi/pin_powerbi_app.png" width="40%" style='border:1px solid #000000'>
+<img src="images/powerbi/pin_powerbi_app.png" width="40%" style='border:1px solid #000000' alt="How to 'pin' the PowerBI app to your outlook.office.com side bar online.">
 
 notes:
 for ease of access, you probably want to "pin" this to your side bar
@@ -108,7 +108,7 @@ for ease of access, you probably want to "pin" this to your side bar
 
 ## How to get setup on PowerBI
 
-<img src="images/powerbi/powerbi_first_view.png" width="90%" style='border:1px solid #000000'>
+<img src="images/powerbi/powerbi_first_view.png" width="90%" style='border:1px solid #000000' alt="How PowerBI looks when you first open it online a green '+ New Report' should be visible in the upper left.">
 
 notes:
 when it opens up, you should see an interface that looks something like the following

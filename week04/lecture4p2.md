@@ -1,9 +1,9 @@
 ---
-title: Lecture 5.3 - Tweet Critique Class Expectations & Logistics
+title: Lecture 4.2 - Tweet Critique Class Expectations & Logistics
 layout: lecture
 description: >-
   Class expectations for presenters and audience members.
-date: 2025-02-17
+date: 2025-09-18
 ---
 
 <br/><br/><br/>
@@ -132,7 +132,7 @@ this will be a more stringent requirement for subsequent presentations, so for n
 * Presentations will be run from your own laptop
   * make sure you bring in any connectors/dongles you might need (the connection is HDMI in class)
   * you can use presenter notes, but *IDEALLY* we should not be able to tell you are using them
-* We will start a few minutes after 3:05pm to have enough time for presentations + feedback
+* We will start a few minutes after 3:10pm to have enough time for presentations + feedback
 
 notes:
 we will start with presentations right after attendance in order to give folks enough time for lots of feedback ...
@@ -144,7 +144,7 @@ we will start with presentations right after attendance in order to give folks e
 * Presentations will be run from your own laptop
   * make sure you bring in any connectors/dongles you might need (the connection is HDMI in class)
   * you can use presenter notes, but *IDEALLY* we should not be able to tell you are using them
-* We will start a few minutes after 3:05pm to have enough time for presentations + feedback
+* We will start a few minutes after 3:10pm to have enough time for presentations + feedback
   * Groups will be called randomly
 
 notes:

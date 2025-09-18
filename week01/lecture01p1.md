@@ -582,7 +582,7 @@ please see the policies about citations in the syllabus!
 Let's practice taking attendance!
 
 notes:
-as mentioned before, we need all of you to be here on time -- we'll give folks a 5 minute grace period before taking attendance at the start of class, otherwise you'll get partial credit
+as mentioned before, we need all of you to be here on time -- we'll give folks a ~~5~~ 10 minute grace period before taking attendance at the start of class, otherwise you'll get partial credit
 
 we may use a few different ways of taking attendance throughout the course, but let's practice our first one
 

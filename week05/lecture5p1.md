@@ -1,45 +1,11 @@
-<!doctype html>
-<html>
-  <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+---
+title: Lecture 5.1 - Excel Setup
+layout: lecture
+description: >-
+  Get ready to use Excel and Power Query.
+date: 2025-09-25
+---
 
-<title>Lecture 5.4 - Excel Setup</title>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reset.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/theme/white.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/5.11.2/css/font-awesome.min.css">
-
-<!-- Theme used for syntax highlighting of code -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
-
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/highlight/highlight.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/math/math.js"></script>
-
-
-
-</style>
-
-  <link rel="stylesheet/less" type="text/css" href="/is457_bcubcg_fall2025/assets/styles.less" />
-  </head>
-
-  <body>
-    <div class="reveal">
-      <div class="slides">
-          <section class="titleslide">
-              <h1>Lecture 5.4 - Excel Setup</h1>
-              <h2>Jill Naiman & Sharon Comstock</h2>
-              <h2>Data Storytelling - Semester - Fall 2025</h2>
-          </section>
-        <section data-markdown
-           data-separator="^\n---\n"
-           data-separator-vertical="^\n----\n">
-          <script type="text/template">
 <br/><br/><br/>
 # Intro to Excel
 
@@ -158,40 +124,4 @@ Basic [instructions on the WebStore page](https://webstore.illinois.edu/shop/pro
  as a reminder **you just need to be sure to have this done by next week!**
 
  we are happy to walk around now and make sure things install ok
-
-
-          </script>
-        </section>
-      </div>
-    </div>
-<script>
-    // More info about config & dependencies:
-    // - https://github.com/hakimel/reveal.js#configuration
-    // - https://github.com/hakimel/reveal.js#dependencies
-    Reveal.initialize({
-        fragments: true,
-        fragmentInURL: true,
-        hash: true,
-        width: 1024,
-        height: 768,
-        margin: 0.02,
-        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath],
-        dependencies: [
-            { src: 'https://cdn.jsdelivr.net/npm/reveald3/reveald3.js'}
-        ],
-		keyboard: {
-		},
-        center: false,
-        transition: 'none',
-        backgroundTransition: 'none',
-        reveald3: {
-            runLastState: false
-        }
-    });
-</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" ></script>
-
-
-  </body>
-</html>
 

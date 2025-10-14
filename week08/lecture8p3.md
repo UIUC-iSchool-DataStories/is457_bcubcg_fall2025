@@ -1,5 +1,5 @@
 ---
-title: Lecture 8.1 -- MiP2a Feedback, Group Set 3
+title: Lecture 8.3 -- MiP2a Feedback, Group Set 3
 layout: lecture
 description: >-
   Quick announcements and info about groups for our final assignments.

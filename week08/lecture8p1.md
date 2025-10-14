@@ -1,5 +1,5 @@
 ---
-title: Lecture 8.2 -- MiP2a Feedback, Group Set 3
+title: Lecture 8.1 -- MiP2a Feedback, Group Set 3
 layout: lecture
 description: >-
   Quick announcements and info about groups for our final assignments.
@@ -289,7 +289,7 @@ just as a reminder of sort of where we are with our building blocks and groups..
 </br></br>
 <ul>
     <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
-    <li><font color='blue'>Group Set 2</font>: random selection -- Group Set 2 is already on Canvas</li>
+    <li><font color='blue'>Group Set 2</font>: random selection</li>
     <li><div id="theDiv1p1"><font color='magenta'>Group Set 3</font></div>: self-selection, group size of 1 (individual) up to ~4, groups will also be used for MP2: Final Data Stories</li>
 </ul>
 
@@ -395,8 +395,8 @@ these groups will be chosen by you as described
 </br></br>
 <ul>
     <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
-    <li><font color='blue'>Group Set 2</font>: random selection -- Group Set 2 is already on Canvas</li>
-    <li><div id="theDiv1p2"><font color='magenta'>Group Set 3</font></div>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
+    <li><font color='blue'>Group Set 2</font>: random selection</li>
+    <li><div id="theDiv1p2"><font color='magenta'>Group Set 3</font></div>: self-selection, group size of 1 (individual) up to ~4, groups will also be used for MP2: Final Data Stories</li>
 </ul>
 
 There will be another Group Contract required for the new group (but you can reuse text from your last contract).

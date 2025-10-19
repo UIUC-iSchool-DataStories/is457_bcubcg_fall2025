@@ -1,11 +1,11 @@
 ---
-title: Lecture 8.2 -- Framing Devices & Intro to Twine
+title: Lecture 9.1 -- Framing Devices & Intro to Twine
 layout: lecture
 tags:
   - framing devices
 description: >-
   How to frame your story and introduce it to your audience and an introduction to Twine for framing and storyboarding.
-date: 2025-03-10
+date: 2025-10-23
 ---
 
 # Today

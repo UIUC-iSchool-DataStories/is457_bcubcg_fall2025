@@ -406,10 +406,12 @@ cat petting simulator might be down!
 
 ## Twine for Data Stories
 
-[Example of Twine for a Data Story is linked in MediaSpace](https://mediaspace.illinois.edu/media/t/1_3uzis4rm) (and on Canvas).
+Example of Twine for a Data Story is on Canvas
 
 notes:
 you are *not* required to use Twine for your final data story!  this is just an example of a recorded version that uses it for audience interactivity
+
+**play recorded data story!**
 
 ---
 

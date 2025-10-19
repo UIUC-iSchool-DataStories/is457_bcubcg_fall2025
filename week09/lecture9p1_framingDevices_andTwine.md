@@ -399,3 +399,21 @@ We have a set of resources for you to check out for twine -- while we won't be c
 
 notes:
 for temple of no -- be sure to click on the underlined words!
+
+cat petting simulator might be down!
+
+---
+
+## Twine for Data Stories
+
+[Example of Twine for a Data Story is linked in MediaSpace](https://mediaspace.illinois.edu/media/t/1_3uzis4rm) (and on Canvas).
+
+notes:
+you are *not* required to use Twine for your final data story!  this is just an example of a recorded version that uses it for audience interactivity
+
+---
+
+## To Twinery.org!
+
+notes:
+**do walkthrough example!**

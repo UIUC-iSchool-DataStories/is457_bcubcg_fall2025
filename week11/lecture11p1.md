@@ -1,0 +1,341 @@
+---
+title: Lecture 11.1 -- Decluttering Slides
+layout: lecture
+description: >-
+  Techniques to declutter slides.
+date: 2025-03-24
+---
+
+<br>
+<br>
+<br>
+
+# Tips to Declutter Slides
+
+notes:
+so, during your MP1's and in your feedback you'll notice that we definitely emphasized that slides/viz needs to be clear to your audience.
+
+some folks have already started using arrows/boxes to display these things, but we wanted to give some more examples of these from some "real life" talks
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+notes:
+so here are some general "rules of thumb" that Prof. Kate McDowell (who will be working with you all in a few weeks) has used to sort of outline some ways to declutter slides
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+notes:
+so, the first is some tips for graphs that you might want to include that are not created by you
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic1.png" alt="First image is the default displayed screenshot from the GapMinder visualization tool.">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+for example, here is a screenshot of a graphic made with the gapminder tool
+
+**ask: what are some issues we see with this graphic if we wanted to use it in a talk?**
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic2.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+one thing we can do is make the text of the legend a bit bigger...
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic3.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+here, this was done by just a screen grab and enlarging of one section of the graph and just overlaying it on top...
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic2.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+
+now there are definitely some other things we'd probably want to change -- for example, we might even consider putting our own text over these labels as they are a little pixelated 
+
+(and we'd probably want to change the colors, and add a y-axis, and make axis labels bigger, etc)
+
+BUT!  This is still MUCH improved from what it was before
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic4.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+next, we can do things like add visual ques for our audience as we walk them through the graph
+
+after starting by walking our audience through the axis labels and overall meaning of our graph, maybe we want to highlight some aspects of our graph
+
+for example, let's say I want folks to focus on where Russia is in this graph, I can add an arrow
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic5.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+for even more clarity, I can add my own label pointing out Russia here...
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic5p5.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+... you might even want to consider color-coding it on that country's color in the graph -- you don't necessarily have to, but this can be effective if you are planning on pointing out multiple countries.
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic6.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+now let's say I want my audience to pay attention to where the cut-off for "extreme poverty is" -- by moving my arrow, I am now drawing my audience's attention to this line
+
+---
+
+## "Easy" annotations for graphics (not made by you)
+
+<img src="images/kate_graphs/pic7.png">
+
+Source: [GapMinder](https://www.gapminder.org/)
+
+notes:
+since that line is hard to read, I can make sure my audience knows what I'm talking about by adding a label here as well
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+notes:
+coming back to Prof. McDowell's list here, you have some options for when you have to include text...
+
+---
+
+## Break down cluttered slides
+
+* **Avoid big text blocks**
+* **Break text across** multiple slides
+* If you need to duplicate a graph/chart, **consider annotating** the second appearance to direct the audience's attention
+
+notes:
+for example (some folks have already started using) the bolding of a few key words and phrases
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+notes:
+Even better is doing things step by step as you talk about them...
+
+---
+
+## Break down cluttered slides
+
+* **Avoid big text blocks**
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+---
+
+## Break down cluttered slides
+
+* **Avoid big text blocks**
+* **Break text across** multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+---
+
+## Break down cluttered slides
+
+* **Avoid big text blocks**
+* **Break text across** multiple slides
+* If you need to duplicate a graph/chart, **consider annotating** the second appearance to direct the audience's attention
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+notes:
+in my case, the bolding defaults in Markdown aren't super strong (in my opinion) so I might break these down bullet point by bullet point...
+
+---
+
+## Break down cluttered slides
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+
+notes:
+no matter which way you chose, note that this will be increasing your slide and talk development time significantly, so be sure to plan for that when organizing your time for your final data stories preparation
+
+---
+
+## Break down cluttered slides
+
+* Avoid big text blocks
+* Break text across multiple slides
+* If you need to duplicate a graph/chart, consider annotating the second appearance to direct the audience's attention
+* Break down dense slides with visual cues
+
+notes:
+to this list from Prof. McDowell, I'd add one more thing -- sometimes you need to have dense slides for whatever reason, but you want to make sure you break these down as much as possible
+
+here is a quick example from one of my talks
+
+---
+
+<br>
+<br>
+<br>
+
+# Version \#1
+
+notes:
+So, first I'll show you a version of a slide in one of my talks.
+
+The context for this slide is that I'm introducing a corpus of historical texts that we want to "digitize" (i.e. make machine-readable.)
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.001.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+
+notes:
+Our corpus of interest is the historical astrophysics literature with the initial dataset containing ~50k scanned pages, but with the potential total corpus encompassing about 3 Million articles of 5-10 pages each.
+
+This data covers the years from about 1850-1997, i.e. the “pre-digital” era in in which text and other page objects is not easily extracted from the PDF
+
+We want to “digitize” these documents. And by “digitizing” here we mean extracting specific page objects including things like tables, math formulas, figures and figure
+captions.
+
+---
+
+<br>
+<br>
+<br>
+
+# Version \#2
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.003.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" alt="link to PDF version of slides here:" -->
+
+notes:
+Our corpus of interest is the historical astrophysics literature with the initial dataset containing ~50k scanned pages, but with the potential total corpus encompassing about 3 Million articles of 5-10 pages each.
+
+This data covers the years from about 1850-1997, i.e. the “pre-digital” era in in which text and other page objects is not easily extracted from the PDF
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.004.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+
+notes:
+We want to “digitize” these documents.
+
+And by “digitizing” here we mean extracting specific page objects including things like…
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.005.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+
+notes:
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.006.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+
+notes:
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.007.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+
+notes:
+
+---
+
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.008.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+
+notes:
+
+---
+
+<br>
+<br>
+<br>
+
+## What are some differences that you noticed from Version \#1 and \#2?
+
+notes:

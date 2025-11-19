@@ -8,7 +8,7 @@ tags:
 description: >-
   Different narrative styles for use with data.
 date: 2025-04-28
-presentation_time: 10
+presentation_time: 7
 playoff_time1: 2
 class_starttime: 3:10pm
 oneTwoDays: the class day

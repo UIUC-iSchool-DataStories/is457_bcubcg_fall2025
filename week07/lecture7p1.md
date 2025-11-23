@@ -17,7 +17,7 @@ How do we design a good viz?  Will go through some "best practices", but be warn
 How to make a good viz:
 1. Part 1: choosing your viz
   * mini perception channels
-  * data --> viz, types of viz
+  * data -- viz, types of viz
   * include "types of viz image"
   * look at types of viz webpage
 
@@ -80,7 +80,6 @@ some of these channels are more/less effective at conveying information -- which
 
 Which image has the red dot?
 
-<!-- .slide: class="two-floating-elements" -->
 
 <div class="left">
   <img src="https://www.csc2.ncsu.edu/faculty/healey/PP/figs/colour_A.gif">
@@ -102,7 +101,8 @@ this is why you probably immediately saw which of these images had a red dot in 
 
 ## Strength of Perception Channels
 
-<!-- .slide: data-background-image="images/perception_channels/stevensLaw.png" data-background-size="auto 75%" -->
+
+<img src="images/perception_channels/stevensLaw.png">
 
 notes:
 different perception channels map more or less "truthfully" to data -- a fun example is shown here
@@ -120,7 +120,7 @@ also, don't try to visualize data with electric shocks please! :D
 
 ## Perception Channels to Data Encodings
 
-<!-- .slide: data-background-image="images/perception_channels/vad_slides_p51.png" data-background-size="auto 75%" -->
+<img src="images/perception_channels/vad_slides_p51.png">
 
 notes:
 we can map the effectiveness of different perception channels roughly to the kinds of marks we want to make for different kinds of data
@@ -151,22 +151,6 @@ for example, this is a pretty silly chart...
 
 ## What kinds of plots should we use with what kinds of data?
 
-<!--
-<style>
-.container {
-  position: relative;
-}
-#clip {
-  position: absolute;
-  clip: rect(0, 100px, 200px, 0);
-  /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
-}
-</style>
-
-<div class="container">
-  <img id="clip" src="https://formations.imt-atlantique.fr/data_storytelling/images/ds/charts_types.jpg" />
-</div>
--->
 
 <img src="images/types_of_charts/pie_chart.png">
 

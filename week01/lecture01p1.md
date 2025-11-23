@@ -209,9 +209,9 @@ How can we make sure our data stories are both compeling and ethical?
 
 ## Some notes about this Class
 
-Participation in this class is absolutely key.<!-- .element: class="fragment" -->
+Participation in this class is absolutely key.
 
-You will be tasked with talking, creating, sharing, and discussing.<!-- .element: class="fragment" -->
+You will be tasked with talking, creating, sharing, and discussing.
 
 notes:
 be aware that participation in this class is key to success
@@ -230,11 +230,11 @@ We ask that you:
 
 ## Participation Guidelines - Presentations
 
-<div>All presentations will be <b>in person</b> - no hybrid/online options available.</div><!-- .element: class="fragment" -->
+<div>All presentations will be <b>in person</b> - no hybrid/online options available.</div>
 
 <br />
 
-<div>This includes presentations that will take place in the last two weeks of class.</div><!-- .element: class="fragment" -->
+<div>This includes presentations that will take place in the last two weeks of class.</div>
 
 notes:
 Please note this is an in person class so we expect you to be in person - there are no online/hybrid options for this class.  While we will make recordings of the first class before the drop-date, we will not be recording other classes.

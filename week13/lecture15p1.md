@@ -121,14 +121,14 @@ We want everybody to be a great audience member for each group so, some expectat
 
 ## Expectations of you as an audience
 
-1. In class activity sheets will be passed out only at the beginning of class - we cannot disrupt class for folks that are late
+1. In class activity ~~sheets will be passed out~~ will be discussed only at the beginning of class - we cannot disrupt class for folks that are late
 
 
 ---
 
 ## Expectations of you as an audience
 
-1. In class activity sheets will be passed out only at the beginning of class - we cannot disrupt class for folks that are late
+1. In class activity ~~sheets will be passed out~~ will be discussed only at the beginning of class - we cannot disrupt class for folks that are late
 1. We expect folks to be present and engaged for all presentations
 
 
@@ -136,7 +136,7 @@ We want everybody to be a great audience member for each group so, some expectat
 
 ## Expectations of you as an audience
 
-1. In class activity sheets will be passed out only at the beginning of class - we cannot disrupt class for folks that are late
+1. In class activity ~~sheets will be passed out~~ will be discussed only at the beginning of class - we cannot disrupt class for folks that are late
 1. We expect folks to be present and engaged for all presentations
  * this includes not talking amongst your group (or with others) during the presentations of others
 
@@ -144,7 +144,7 @@ We want everybody to be a great audience member for each group so, some expectat
 
 ## Expectations of you as an audience
 
-1. In class activity sheets will be passed out only at the beginning of class - we cannot disrupt class for folks that are late
+1. In class activity ~~sheets will be passed out~~ will be discussed only at the beginning of class - we cannot disrupt class for folks that are late
 1. We expect folks to be present and engaged for all presentations
  * this includes not talking amongst your group (or with others) during the presentations of others
  * this includes not leaving early
